@@ -32,5 +32,5 @@ Im Khalid Stonehouse, i am a trainee software developer at [Northcoders](https:/
 
 ---
 
-[<img src="./../KhalidStonehouse2001/174857.png" width="50" height="50">](https://www.linkedin.com/in/khalid-stonehouse-1a9174225/)
-[<img src="./../KhalidStonehouse2001/1200px-Outlook_hi-res_icon_(2019).svg.png" width="50" height="50">](mailto:khalidstonehouse12@outlook.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50">](https://www.linkedin.com/in/khalid-stonehouse-1a9174225/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Outlook_hi-res_icon_%282019%29.svg/1200px-Outlook_hi-res_icon_%282019%29.svg.png" width="50" height="50">](mailto:khalidstonehouse12@outlook.com)
