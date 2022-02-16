@@ -10,7 +10,7 @@
 
 ---
 
-Im Khalid Stonehouse, i am a trainee software developer at [Northcoders](https://northcoders.com/). I will be graduating in March 2022 and will be looking to land my first Junior Software Development Role soon after. 👀
+I'm Khalid Stonehouse, i am a trainee software developer at [Northcoders](https://northcoders.com/). I will be graduating in March 2022 and will be looking to land my first Junior Software Development Role soon after. 👀
 
 - ⚡️Currently working on my end of course project.
 - 🥅 2022 Goals: Start my first Junior Dev Role
