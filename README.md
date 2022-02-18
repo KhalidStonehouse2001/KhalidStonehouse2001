@@ -28,6 +28,13 @@ I'm Khalid Stonehouse, i am a trainee software developer at [Northcoders](https:
 <br/>
 <br/>
 
+### - My Project Repo's: 
+
+Full Stack Games Project - https://github.com/KhalidStonehouse2001/ks-games
+
+Projects - https://github.com/KhalidStonehouse2001/Projects
+
+
 ### ➡️ Connect with me:
 
 ---
