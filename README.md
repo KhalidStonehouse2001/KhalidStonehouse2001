@@ -15,7 +15,7 @@ I'm Khalid Stonehouse, I am an Associate Web Engineer For Kin + Carta Europe. Lo
 🥅 2022 Goals: 
 - Start my first Junior Dev Role - Done ✅
 - Progress through my Associate Program at Kin + Carta📈
-- Learn a new programming language✍🏻
+- Currently Learning TypeScript ✍🏻
 
 ### My Tech Stack:
 
