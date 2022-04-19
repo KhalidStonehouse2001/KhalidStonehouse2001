@@ -30,12 +30,6 @@ I'm Khalid Stonehouse, I am an Associate Web Engineer For Kin + Carta Europe. Lo
 <br/>
 <br/>
 
-### - My Project Repo's: 
-
-Full Stack Games Project - https://github.com/KhalidStonehouse2001/ks-games
-
-Projects - https://github.com/KhalidStonehouse2001/Projects
-
 
 ### ➡️ Connect with me:
 
