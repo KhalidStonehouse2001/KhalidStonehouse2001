@@ -16,6 +16,7 @@ I'm Khalid Stonehouse, I am an Associate Web Engineer For Kin + Carta Europe. Lo
 - Start my first Junior Dev Role - Done ✅
 - Progress through my Associate Program at Kin + Carta📈
 - Currently Learning TypeScript ✍🏻
+- Learning AWS ☁️
 
 ### My Tech Stack:
 
